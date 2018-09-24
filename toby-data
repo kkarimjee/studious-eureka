@@ -1,0 +1,5 @@
+myproject kkarimjee$ touch kkarimjee.txt
+myproject kkarimjee$ ls
+kkarimjee.txt
+
+myproject kkarimjee$ git status
